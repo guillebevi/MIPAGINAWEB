@@ -1,0 +1,30 @@
+h1 {
+
+    color: yellow;
+}
+h2 {
+    color: aqua;
+}
+.cuadrado 
+{
+width: 200px;
+height: 200px;
+background-color: brown;
+}
+
+.cuadrado2 
+{
+width: 200px;
+height: 200px;
+background-color: rgb(13, 1, 1);
+}
+
+.independiente
+
+{
+    width: 500px;
+    height: 500px;
+    background-image: url(./imagenes/channels4_profile.jpg);
+    background-size: contain;
+
+}
